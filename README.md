@@ -1,4 +1,4 @@
-## Hi there 👋
+## Cybersecurity Mind 
 
 <p>Cybersecurity specialist with extensive experience in Red Team operations and DevSecOps. Proven track record in automating processes, integrating secure practices into infrastructure, and enhancing security and operational efficiency</p>
 
