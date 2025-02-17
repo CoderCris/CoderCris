@@ -1,9 +1,6 @@
 # Arrived at CoderCris profile. Welcome!
 ![this is cyberspace](assets/header.png)
 
-## Cybersecurity Mind 
-
-<p>Cybersecurity specialist with extensive experience in Red Team operations and DevSecOps. Proven track record in automating processes, integrating secure practices into infrastructure, and enhancing security and operational efficiency</p>
 
 <!--
 **CoderCris/CoderCris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
